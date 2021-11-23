@@ -1,0 +1,10 @@
+C:\Users\Developer\source\repos\Direct Download Manager\bin\Debug\Direct Download Manager.exe.config
+C:\Users\Developer\source\repos\Direct Download Manager\bin\Debug\Direct Download Manager.exe
+C:\Users\Developer\source\repos\Direct Download Manager\bin\Debug\Direct Download Manager.pdb
+C:\Users\Developer\source\repos\Direct Download Manager\obj\Debug\Direct Download Manager.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Direct Download Manager\obj\Debug\Direct_Download_Manager.Form1.resources
+C:\Users\Developer\source\repos\Direct Download Manager\obj\Debug\Direct_Download_Manager.Properties.Resources.resources
+C:\Users\Developer\source\repos\Direct Download Manager\obj\Debug\Direct Download Manager.csproj.GenerateResource.cache
+C:\Users\Developer\source\repos\Direct Download Manager\obj\Debug\Direct Download Manager.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Direct Download Manager\obj\Debug\Direct Download Manager.exe
+C:\Users\Developer\source\repos\Direct Download Manager\obj\Debug\Direct Download Manager.pdb
